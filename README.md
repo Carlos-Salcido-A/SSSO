@@ -1,10 +1,7 @@
 # SSSO
 Seminario de Solución de Problemas de Sistemas Operativos. 
-
 Profesor: Julio Esteban Lopez Valdes. 
-
 Sección: D08. 
-
 CUCEI. 
 
 
