@@ -1,5 +1,1 @@
-a + b + 50
-b * c / x
-x = 34.21
-b * -9
-z = y / -0.9
+Programa dos de la materia de seminario de solucion de problemas de sistemas operativos, la llevé con Julio Esteban Valdes Lopez, pero son las mismas actividades que Violeta
