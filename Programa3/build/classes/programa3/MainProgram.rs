@@ -1,0 +1,9 @@
+com.mycompany.programa2.MainProgram$1
+com.mycompany.programa2.MainProgram$2
+com.mycompany.programa2.MainProgram$3
+com.mycompany.programa2.MainProgram$8
+com.mycompany.programa2.MainProgram$4
+com.mycompany.programa2.MainProgram
+com.mycompany.programa2.MainProgram$5
+com.mycompany.programa2.MainProgram$6
+com.mycompany.programa2.MainProgram$7
